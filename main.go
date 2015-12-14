@@ -11,7 +11,7 @@ import (
 )
 
 var (
-	version   = "0.0.0"
+	version   = "0.1.0"
 	author    = os.Getenv("CMDREPORT_AUTHOR")
 	serverURL = os.Getenv("CMDREPORT_SERVER")
 )
